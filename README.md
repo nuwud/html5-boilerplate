@@ -4,9 +4,13 @@
 
 ### v.2.1 : June 17th, 2012
 
-Removed libs, mylibs and older versions of modernizr and jQuery, and request-animation.frame.js.
+Removed unnecessary images, js/libs, js/mylibs and older versions of modernizr and jQuery, and request-animation.frame.js.
+
 Updated jquery-1.7.min.js to jquery-17.2.min.js.
 Updated plugins.js to consist of console.log wrapper and requestNextAnimFrame() polyfill.
+
+Added utility functions to script.js for adding the browser as a body class, and other useful methods.
+
 
 ### v.2.0 : August 10th, 2011
 
