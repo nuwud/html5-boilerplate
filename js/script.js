@@ -103,6 +103,7 @@ ISOBAR = {
 		}
 	}
 };
+// http://paulirish.com/2009/markup-based-unobtrusive-comprehensive-dom-ready-execution/
 UTIL = {
 	fire: function(func, funcname, args) {
 		var namespace = ISOBAR; // indicate your obj literal namespace here
