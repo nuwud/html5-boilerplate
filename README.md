@@ -1,6 +1,12 @@
-#  HTML5 Boilerplate [http://html5boilerplate.com](http://html5boilerplate.com)
+﻿#  HTML5 Boilerplate [http://html5boilerplate.com](http://html5boilerplate.com)
 
 ## Changelog:
+
+### v.2.1 : June 17th, 2012
+
+Removed libs, mylibs and older versions of modernizr and jQuery, and request-animation.frame.js.
+Updated jquery-1.7.min.js to jquery-17.2.min.js.
+Updated plugins.js to consist of console.log wrapper and requestNextAnimFrame() polyfill.
 
 ### v.2.0 : August 10th, 2011
 
